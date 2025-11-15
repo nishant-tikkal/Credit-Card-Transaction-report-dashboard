@@ -30,7 +30,8 @@
 <ul>
   <li>Total Revenue</li>
   <li>Total Interest</li>
-  <li>Total Transactions</li>
+  <li>Total Transactions Amount</li>
+  <li>Total Client</li>
   <li>Weekly filter to check data by week</li>
 </ul>
 
