@@ -131,4 +131,5 @@
 <hr>
 
 <h2 id="preview">📸 Dashboard Preview</h2>
-![Dashboard Screenshot](Credit_Card_Report_Dashboard_Screenshot.png)
+<img src="Credit_Card_Report_Dashboard_Screenshot.png" alt="Dashboard Screenshot" width="600" />
+
